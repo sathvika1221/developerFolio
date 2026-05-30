@@ -1,5 +1,5 @@
 // Greeting + Resume
-import emoji from "react-easy-emoji";
+
 const greeting = {
   username: "SATHVIKA MEDABALIMI",
   title: "Hi all, I'm Sathvika 👋",
